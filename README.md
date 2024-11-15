@@ -10,9 +10,9 @@ Custom Background: A vibrant green leaf background enhances the interface aesthe
 Image Input Options: Upload an image or capture a photo for analysis.
 
 **Technologies Used:**
-Python: Core programming language.
-TensorFlow: For loading and running the pre-trained model.
-Streamlit: To create a user-friendly GUI.
-Pillow: For image processing.
-NumPy: For handling image data.
-JSON: To store disease-to-class mappings and additional information."# plant-disease-prediction" 
+1.Python: Core programming language.
+2.TensorFlow: For loading and running the pre-trained model.
+3.Streamlit: To create a user-friendly GUI.
+4.Pillow: For image processing.
+5.NumPy: For handling image data.
+6.JSON: To store disease-to-class mappings and additional information."# plant-disease-prediction" 
