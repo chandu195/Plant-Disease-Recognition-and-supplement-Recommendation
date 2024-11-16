@@ -25,3 +25,7 @@ This project is a Plant Disease Detection System designed to identify plant dise
 
    ```bash
    streamlit run main.py
+![Alt text]()
+![Alt text](![c1](https://github.com/user-attachments/assets/0190cf9b-35aa-4ce5-bac6-6b2fdccdafd5)
+![c2](https://github.com/user-attachments/assets/6758f8c8-0c89-45cd-8f50-bea124d18561)
+)
